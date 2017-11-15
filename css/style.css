@@ -3,11 +3,9 @@ html {
   background: -webkit-linear-gradient(#9d9181, #9e866c);
   background: linear-gradient(#9d9181, #9e866c);
 }
-
 body {
   background-color: transparent;
 }
-
 .card-profile {
   width: 340px;
   margin: 50px auto;
@@ -62,4 +60,13 @@ body {
 }
 .card-profile .card-links .fa.fa-facebook:hover {
   color: #2d4474;
+}
+.small i {
+  font-size: 0.8rem;
+}
+.medium i {
+  font-size: 1rem;
+}
+.large i {
+  font-size: 1.2rem;
 }
